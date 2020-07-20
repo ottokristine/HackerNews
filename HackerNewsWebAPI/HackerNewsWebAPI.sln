@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsWebAPI", "HackerNewsWebAPI.csproj", "{6F22730B-E319-4BB8-847C-917DB4A62B1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsWebAPI.Core", "..\HackerNewsWebAPI.Core\HackerNewsWebAPI.Core.csproj", "{78385655-B2D5-468E-A40A-4B0443FE0854}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsWebAPI.Data", "..\HackerNewsWebAPI.Data\HackerNewsWebAPI.Data.csproj", "{26A0EE98-1A56-42A9-8BB1-0304CEF24CA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsWebAPI.Test", "..\HackerNewsWebAPI.Test\HackerNewsWebAPI.Test.csproj", "{F5911C2E-15F3-4D9D-A443-B86E7179F551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F22730B-E319-4BB8-847C-917DB4A62B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F22730B-E319-4BB8-847C-917DB4A62B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F22730B-E319-4BB8-847C-917DB4A62B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F22730B-E319-4BB8-847C-917DB4A62B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78385655-B2D5-468E-A40A-4B0443FE0854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78385655-B2D5-468E-A40A-4B0443FE0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78385655-B2D5-468E-A40A-4B0443FE0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78385655-B2D5-468E-A40A-4B0443FE0854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A0EE98-1A56-42A9-8BB1-0304CEF24CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A0EE98-1A56-42A9-8BB1-0304CEF24CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A0EE98-1A56-42A9-8BB1-0304CEF24CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A0EE98-1A56-42A9-8BB1-0304CEF24CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5911C2E-15F3-4D9D-A443-B86E7179F551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5911C2E-15F3-4D9D-A443-B86E7179F551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5911C2E-15F3-4D9D-A443-B86E7179F551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5911C2E-15F3-4D9D-A443-B86E7179F551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1C893E-C7F2-43FD-A451-FD811C0A6253}
+	EndGlobalSection
+EndGlobal

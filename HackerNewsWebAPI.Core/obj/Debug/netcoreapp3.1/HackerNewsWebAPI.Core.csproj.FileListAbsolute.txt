@@ -1,0 +1,15 @@
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.deps.json
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.dll
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.pdb
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.AssemblyInfo.cs
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.dll
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.pdb
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.deps.json
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.dll
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\bin\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.pdb
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.csprojAssemblyReference.cache
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.AssemblyInfo.cs
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.dll
+C:\Users\kotto\Documents\PracticeProjects\HackerNewsWebAPIAll\HackerNewsWebAPI.Core\obj\Debug\netcoreapp3.1\HackerNewsWebAPI.Core.pdb

@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Test\\HackerNewsWebAPI.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\HackerNewsWebAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\HackerNewsWebAPI.Core.csproj",
+        "projectName": "HackerNewsWebAPI.Core",
+        "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\HackerNewsWebAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\kotto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kotto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj",
+        "projectName": "HackerNewsWebAPI.Data",
+        "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj",
+        "packagesPath": "C:\\Users\\kotto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kotto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\HackerNewsWebAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Core\\HackerNewsWebAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Test\\HackerNewsWebAPI.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Test\\HackerNewsWebAPI.Test.csproj",
+        "projectName": "HackerNewsWebAPI.Test",
+        "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Test\\HackerNewsWebAPI.Test.csproj",
+        "packagesPath": "C:\\Users\\kotto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kotto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj"
+              },
+              "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\HackerNewsWebAPI.csproj": {
+                "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\HackerNewsWebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\HackerNewsWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\HackerNewsWebAPI.csproj",
+        "projectName": "HackerNewsWebAPI",
+        "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\HackerNewsWebAPI.csproj",
+        "packagesPath": "C:\\Users\\kotto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kotto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\kotto\\Documents\\PracticeProjects\\HackerNewsWebAPIAll\\HackerNewsWebAPI.Data\\HackerNewsWebAPI.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
